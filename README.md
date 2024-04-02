@@ -4,9 +4,9 @@
 
 ## Hi I'm BSIT Student Learning Web Development | Aspiring Full-Stack Developer
 
-- 👨‍💻 I'm studying in Dominican College Of Tarlac, learning Web Development
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more about programming - Never stop creating new ideas.
+- I'm studying in Dominican College Of Tarlac, learning Web Development
+- Learning everything about Frontend and Backend technologies 
+- Future Goals: Learn more about programming - Never stop creating new ideas.
 
 ---
 
