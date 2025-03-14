@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7DE5ED&width=435&lines=Hi!+I'm+Joyce+Kenn;BSIT+1st+year+student;Welcome+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7DE5ED&width=435&lines=Hi!+I'm+Joyce+Kenn;BSIT+3rd+year+student;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
